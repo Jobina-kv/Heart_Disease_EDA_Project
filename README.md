@@ -6,6 +6,8 @@ Exploratory Data Analysis (EDA) on clinical and behavioral factors influencing h
 
 - **project.ipynb** – Colab notebook with full EDA workflow and visualizations.  
 - **project.pdf** – Presentation highlighting key insights and graphs.
+- **heart_df1.csv** – First dataset containing behavioral and clinical factors such as BMI, smoking, physical activity, and general health.    
+- **heart_df2.csv** – Second dataset containing additional clinical measurements such as blood pressure, cholesterol, ECG results, and heart disease target labels.
 
 ## Key Insights
 
